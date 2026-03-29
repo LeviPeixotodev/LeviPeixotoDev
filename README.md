@@ -25,7 +25,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 
-### 📊 Estatísticas do GitHub
+## 🔗 Conecte-se comigo
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=LeviPeixotodev&show_icons=true&theme=radical&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviPeixotodev&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/LeviPeixoto)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levipeixoto.dev@gmail.com)
+[![E-commerce Project](https://img.shields.io/badge/Projeto_E--commerce-1572B6?style=for-the-badge&logo=shopify&logoColor=white)]((https://levipeixotodev.github.io/SITE-ECOMMERCE-Curso-DigitalCollege/)))
