@@ -48,3 +48,11 @@ Construo APIs e aplicações web com foco em backend, boas práticas e evoluçã
 API desenvolvida em Java 17 com Spring Boot para gerenciar caminhões, motoristas, rotas e fretes. O projeto aplica organização em camadas, DTOs, validações, regras de negócio, tratamento padronizado de erros HTTP e persistência com banco H2.
 
 [![Ver projeto](https://img.shields.io/badge/Ver%20projeto-CaminhaoAPI__Java-181717?style=for-the-badge&logo=github)](https://github.com/LeviPeixotodev/CaminhaoAPI_Java)
+<div align="center">
+![Profile views](https://komarev.com/ghpvc/?username=LeviPeixotodev&color=0B8D05&style=for-the-badge&label=VISITANTES)
+<div align="center">
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/LeviPeixotodev/LeviPeixotodev/output/github-contribution-grid-snake.svg)
+
+</div>
