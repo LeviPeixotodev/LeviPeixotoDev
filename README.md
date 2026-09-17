@@ -6,7 +6,7 @@
 
 ### Desenvolvedor Full Stack | JavaScript • Node.js • Express • Java • Spring Boot
 
-Construo APIs e aplicações web com foco em backend, boas práticas e evolução contínua.
+Construo APIs e aplicações com foco em backend, boas práticas e evolução contínua.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levi-peixoto)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levipeixoto.dev@gmail.com)
