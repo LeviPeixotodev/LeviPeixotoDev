@@ -2,7 +2,9 @@
 
 # Olá, eu sou o Levi 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=24&pause=500&color=0B8D05&background=23FF0000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=24&pause=300&color=0B8D05&center=true&vCenter=true&width=530&height=60&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia)](https://git.io/typing-svg)
+
+</div>
 
 ### Desenvolvedor Full Stack | JavaScript • Node.js • Express • Java • Spring Boot
 
