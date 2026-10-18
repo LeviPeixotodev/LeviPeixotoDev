@@ -52,7 +52,7 @@ API desenvolvida em Java 17 com Spring Boot para gerenciar caminhões, motorista
 <p align="center">
   <a href="https://github.com/LeviPeixotodev/CaminhaoAPI_Java">
     <img src="https://img.shields.io/badge/Ver%20projeto-CaminhaoAPI__Java-181717?style=for-the-badge&logo=github" alt="Ver projeto no GitHub" />
-      <img src="https://komarev.com/ghpvc/?username=LeviPeixotodev&color=0B8D05&style=for-the-badge&label=VISITANTES" alt="Contador de visitantes" />
+      <img src="https://api.visitorbadge.io/api/combined?path=LeviPeixotodev.CaminhaoAPI_Java&label=VISITANTES&countColor=%230B8D05&style=for-the-badge" alt="Contador de visitantes" />
 
   </a>
 </p>
